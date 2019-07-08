@@ -12,6 +12,7 @@ Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
+
 \c@part=\count80
 \c@section=\count81
 \c@subsection=\count82
@@ -24,12 +25,14 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
 y"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
 y"
 Package: babel 2018/06/05 3.22 The Babel package
@@ -38,6 +41,7 @@ Package: babel 2018/06/05 3.22 The Babel package
 ef"
 File: switch.def 2018/06/05 3.22 Babel switching mechanism
 )
+
 *************************************
 * Local config file bblopts.cfg used
 *
@@ -47,6 +51,7 @@ g"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\sp
 anish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
@@ -61,6 +66,7 @@ File: babel.def 2018/06/05 3.22 Babel common definitions
 .def")
 \bbl@dirlevel=\count89
 )
+
 \es@quottoks=\toks16
 \es@quotdepth=\count90
 Package babel Info: Making " an active character on input line 561.
@@ -68,6 +74,7 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
 x.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -77,6 +84,7 @@ sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
 s.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
@@ -85,22 +93,27 @@ Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 y"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
 phics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
+
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdf
 tex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
+
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.s
 ty"
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+
 \c@tracingmulticols=\count91
 \mult@box=\box26
 \multicol@leftmargin=\dimen106
@@ -148,6 +161,7 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \colbreak@box=\box51
 \mc@col@check@num=\count99
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
 y.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
@@ -156,15 +170,18 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 .sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvte
 x.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
 x.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
+
 \Gm@cnth=\count100
 \Gm@cntv=\count101
 \c@Gm@tempcnt=\count102
@@ -188,6 +205,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box53
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
 sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
@@ -205,15 +223,18 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen123
 ))
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
 ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen124
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
 ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
+
 \inf@bad=\count104
 LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count105
@@ -252,6 +273,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\stackre
 l.sty"
 Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
@@ -264,16 +286,19 @@ Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 rerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflua
 tex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
+
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
 xcmds.sty"
 Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
@@ -283,11 +308,13 @@ Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 ds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
+
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multiro
 w.sty"
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
@@ -296,16 +323,19 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@dima=\skip49
 \bigstrutjot=\dimen132
 )
+
 ("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.
 sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
 )
+
 (C:/Users/DEPIS01/Documents/GitHub/Trabajo-Encargado-N-03/Informe3\InformeLabor
 atorio01.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
+
 \openout1 = `InformeLaboratorio01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -320,5 +350,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
+
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
